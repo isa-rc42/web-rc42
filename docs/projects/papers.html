@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>RC42 - Mariane Weber</title>
+<title>RC42 - Publications</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -33,6 +33,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-html/quarto.js"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
@@ -86,9 +87,19 @@ ul.task-list li input[type="checkbox"] {
   <li class="nav-item">
     <a class="nav-link" href="../board/index.html">Board</a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="../projects/index.html">Research</a>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-research" role="button" data-bs-toggle="dropdown" aria-expanded="false">Research</a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-research">    
+        <li>
+    <a class="dropdown-item" href="../projects/index.html">
+ <span class="dropdown-text">Projects</span></a>
   </li>  
+        <li>
+    <a class="dropdown-item" href="../projects/papers.html">
+ <span class="dropdown-text">Publication</span></a>
+  </li>  
+    </ul>
+  </li>
   <li class="nav-item dropdown ">
     <a class="nav-link dropdown-toggle" href="#" id="nav-menu-news" role="button" data-bs-toggle="dropdown" aria-expanded="false">News</a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-news">    
@@ -130,47 +141,26 @@ ul.task-list li input[type="checkbox"] {
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-
-
-<div class="quarto-about-jolla">
-  <img src="marianeweber.jpg" class="about-image
-  round " style="height: 15em; width: 15em;">
- <header id="title-block-header" class="quarto-title-block default">
+<header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Mariane Weber</h1>
+<h1 class="title">Publications</h1>
 </div>
+
+
+
 <div class="quarto-title-meta">
+
+    
+    
   </div>
-</header><div id="mariane-block">
-<p>Marianne Weber (1870–1954) was a prominent German sociologist, women’s rights activist, and writer, known for her contributions to feminist theory and her role in advancing women’s rights in Germany. Born Marianne Schnitger in Oerlinghausen, she married Max Weber in 1893 and became an integral part of his intellectual and personal life.</p>
-<p>Marianne Weber was a formidable scholar in her own right. She studied law and sociology, and her academic pursuits were heavily influenced by the intellectual milieu she shared with her husband and other scholars of the time. Her work often intersected with issues of gender, law, and sociology.</p>
-<p>One of her most significant contributions was her book “Wife and Mother in the Development of Law” (1907), where she examined the legal and social status of women through history. She argued for the recognition of women’s work within the family and their rights as individuals, advocating for legal reforms to ensure gender equality.</p>
-<p>In addition to her academic work, Marianne Weber was actively involved in the women’s movement in Germany. She was a member of the Federation of German Women’s Associations (BDF) and served as its chairwoman from 1919 to 1923. During her tenure, she worked tirelessly to advance women’s educational opportunities, legal rights, and social positions.</p>
-<p>After Max Weber’s death in 1920, Marianne Weber dedicated herself to preserving and promoting his intellectual legacy. She edited and published his unfinished works, ensuring that his contributions to sociology and social theory would be recognized and studied by future generations.</p>
-<p>Marianne Weber’s life and work were characterized by her commitment to social justice, gender equality, and intellectual rigor. Her contributions have left a lasting impact on feminist theory and the sociology of gender, cementing her place as a significant figure in the history of sociology. She passed away in Heidelberg in 1954.</p>
-</div> 
-  <hr class="about-sep">
-   <div class="about-links">
-  <a href="https://twitter.com/MarvinSchmittML" class="about-link">
-    <i class="bi bi-twitter"></i>
-     <span class="about-link-text"></span>
-  </a>
-  <a href="https://github.com/marvinschmitt" class="about-link">
-    <i class="bi bi-github"></i>
-     <span class="about-link-text"></span>
-  </a>
-  <a href="https://www.linkedin.com/in/marvin-schmitt-a85b321a2/" class="about-link">
-    <i class="bi bi-linkedin"></i>
-     <span class="about-link-text"></span>
-  </a>
-  <a href="mailto:mail.marvinschmitt@gmail.com" class="about-link">
-    <i class="bi bi-envelope"></i>
-     <span class="about-link-text"></span>
-  </a>
-</div>
-</div>
+  
 
+</header>
 
+<iframe src="https://bibbase.org/show?bib=https%3A%2F%2Fapi.zotero.org%2Fusers%2F5414506%2Fcollections%2F3TR69TQ5%2Fitems%3Fkey%3DvCfcFw8Ah17TyMYXbAFUABTi%26format%3Dbibtex%26limit%3D100" style="
+    height: 750px;
+    width: 1000px;
+"></iframe>
 
 
 
@@ -195,6 +185,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
   const clipboard = new window.ClipboardJS('.code-copy-button', {
     target: function(trigger) {
       return trigger.previousElementSibling;
