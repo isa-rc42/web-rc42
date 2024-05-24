@@ -1,0 +1,18 @@
+---
+layout: page
+title: RC42 Social Psychology
+# excerpt: My current CV
+# execute:
+  # freeze: true  # never re-render during project render
+# engine: knitr 
+# resources:
+  # - "cv.pdf"
+# cv:
+  # pdf: "cv.pdf"
+---
+
+Established in 1988
+
+# Objectives
+The aim of RC42 is to contribute to the development of theory and research in social psychology on an international level, uniting professional and scientific interests of its members to work together on a local, regional, and international level.
+

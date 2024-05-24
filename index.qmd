@@ -1,33 +1,30 @@
 ---
+title: Welcome to the website of the ISA RC42
 about:
   template: jolla
   id: about-block
   image: "img/my_image.jpg"
   links:
-    - icon: twitter
-      text: X
-      href: https://twitter.com/MarvinSchmittML
-    - icon: github
-      text: Repo
-      href: https://github.com/marvinschmitt
-    - icon: linkedin
-      text: LinkedIn
-      href: https://www.linkedin.com/in/marvin-schmitt-a85b321a2/
+    - icon: globe
+      # text: 
+      href: https://www.isa-sociology.org/en/research-networks/research-committees/rc42-social-psychology/
+    # - icon: github
+      # text: 
+      # href: https://github.com/marvinschmitt
+    # - icon: linkedin
+      # text: 
+      # href: https://www.linkedin.com/in/marvin-schmitt-a85b321a2/
     - icon: envelope
-      text: Email
+      # text: 
       href: "mailto:mail.marvinschmitt@gmail.com"  
 ---
 
 ::: {#about-block}
-:::
-
-# Welcome to the website of the ISA RC42
 
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
-```{=html}
-<div  style="margin: 30px; text-align: center;">
-<a class="btn btn-primary" href="https://www.marvinschmitt.com/blog/website-tutorial-quarto/" role="button" target="_blank" style="padding: 15px 30px;">View the tutorial for this template (+ download link)</a>
-</div>
-```
+:::
+
+
+
 

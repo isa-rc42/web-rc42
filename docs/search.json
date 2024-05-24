@@ -1,37 +1,65 @@
 [
   {
-    "objectID": "cv/index.html",
-    "href": "cv/index.html",
-    "title": "Curriculum vitae",
+    "objectID": "about/index.html",
+    "href": "about/index.html",
+    "title": "RC42 Social Psychology",
     "section": "",
-    "text": "Download current CV\n  \n\n\n  \n\n\nView the tutorial for this template (+ download link)"
+    "text": "Objectives\nThe aim of RC42 is to contribute to the development of theory and research in social psychology on an international level, uniting professional and scientific interests of its members to work together on a local, regional, and international level."
+  },
+  {
+    "objectID": "board/member1.html",
+    "href": "board/member1.html",
+    "title": "Max Weber",
+    "section": "",
+    "text": "Max Weber (1864–1920) was a pioneering German sociologist, philosopher, and political economist, best known for his profound impact on the study of sociology and his theories on capitalism, bureaucracy, and religion. Born in Erfurt, Prussia, Weber grew up in an intellectually vibrant environment, which significantly influenced his scholarly pursuits.\nWeber studied law, history, economics, and philosophy at several universities, including Heidelberg and Berlin. His early academic career focused on law and economics, but he soon shifted to broader social sciences. He became a professor at the University of Freiburg and later at the University of Heidelberg.\nWeber’s most influential work, “The Protestant Ethic and the Spirit of Capitalism” (1905), argued that Protestant ethics and ideas influenced the development of capitalism. He is also known for his theory of bureaucracy, which described an ideal type of bureaucracy based on rational-legal authority, hierarchical structure, and formal rules and procedures.\nBeyond his academic contributions, Weber was actively involved in politics and participated in the drafting of the Weimar Constitution after World War I. His later works, such as “Economy and Society” and “Politics as a Vocation,” continued to explore the complexities of modern society, authority, and individual agency.\nWeber’s comprehensive approach to sociology, which integrated economic, political, and cultural dimensions, has left a lasting legacy, making him a foundational figure in the field. He passed away in Munich in 1920, but his ideas continue to influence sociological thought and research."
+  },
+  {
+    "objectID": "board/member2.html",
+    "href": "board/member2.html",
+    "title": "Mariane Weber",
+    "section": "",
+    "text": "Marianne Weber (1870–1954) was a prominent German sociologist, women’s rights activist, and writer, known for her contributions to feminist theory and her role in advancing women’s rights in Germany. Born Marianne Schnitger in Oerlinghausen, she married Max Weber in 1893 and became an integral part of his intellectual and personal life.\nMarianne Weber was a formidable scholar in her own right. She studied law and sociology, and her academic pursuits were heavily influenced by the intellectual milieu she shared with her husband and other scholars of the time. Her work often intersected with issues of gender, law, and sociology.\nOne of her most significant contributions was her book “Wife and Mother in the Development of Law” (1907), where she examined the legal and social status of women through history. She argued for the recognition of women’s work within the family and their rights as individuals, advocating for legal reforms to ensure gender equality.\nIn addition to her academic work, Marianne Weber was actively involved in the women’s movement in Germany. She was a member of the Federation of German Women’s Associations (BDF) and served as its chairwoman from 1919 to 1923. During her tenure, she worked tirelessly to advance women’s educational opportunities, legal rights, and social positions.\nAfter Max Weber’s death in 1920, Marianne Weber dedicated herself to preserving and promoting his intellectual legacy. She edited and published his unfinished works, ensuring that his contributions to sociology and social theory would be recognized and studied by future generations.\nMarianne Weber’s life and work were characterized by her commitment to social justice, gender equality, and intellectual rigor. Her contributions have left a lasting impact on feminist theory and the sociology of gender, cementing her place as a significant figure in the history of sociology. She passed away in Heidelberg in 1954."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "RC42",
+    "title": "Welcome to the website of the ISA RC42",
     "section": "",
-    "text": "Welcome to the website of the ISA RC42\nLorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.\n\nView the tutorial for this template (+ download link)"
+    "text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
   },
   {
-    "objectID": "photography/index.html",
-    "href": "photography/index.html",
-    "title": "Photography",
+    "objectID": "links/index.html",
+    "href": "links/index.html",
+    "title": "Links",
     "section": "",
-    "text": "View the tutorial for this template (+ download link)"
+    "text": "Journal of Personality and Social Psychology\nSocial Psychology Quarterly\nJournal of Experimental Social Psychology\nPersonality and Social Psychology Bulletin\nSocial Psychological and Personality Science\n\n\n\n\n\nSocial Psychology by Elliot Aronson, Timothy D. Wilson, and Robin M. Akert Link\nHandbook of Social Psychology edited by Susan T. Fiske, Daniel T. Gilbert, and Gardner Lindzey Link\nThe Social Animal by Elliot Aronson Link\nThe Presentation of Self in Everyday Life by Erving Goffman Link\nSociety in Action: The Theory of Social Becoming by Piotr Sztompka Link\n\n\n\n\n\nPsycINFO\nJSTOR\nSociological Abstracts\nGoogle Scholar\nPubMed\n\n\n\n\n\nAmerican Sociological Association (ASA)\nSociety for Personality and Social Psychology (SPSP)\nInternational Sociological Association (ISA)\nAssociation for Psychological Science (APS)\nSociety for the Study of Social Problems (SSSP)\n\n\n\n\n\nCoursera - Social Psychology\nedX - Social Psychology\nKhan Academy - Social Psychology\nMIT OpenCourseWare - Social Psychology\nYouTube - Social Psychology Lectures\n\n\n\n\n\nSPSS\nR\nNVivo\nAtlas.ti\nQualtrics"
+  },
+  {
+    "objectID": "news/index.html",
+    "href": "news/index.html",
+    "title": "News",
+    "section": "",
+    "text": "Tweets by isa_sociology"
   },
   {
     "objectID": "projects/index.html",
     "href": "projects/index.html",
     "title": "Projects",
     "section": "",
-    "text": "arXiv Preprint | Code\nOver the centuries, I have devoted countless hours to deciphering and translating the ancient scripts and dialects of the various peoples of Middle-earth. My goal is to gain a deeper understanding of the cultures and histories of these peoples by studying their languages. Currently, I am working on a monograph that explores the linguistic roots of the Elvish languages. Through extensive research and analysis, I hope to shed light on the connections between the different dialects of Elvish and their origins. This project has been particularly challenging, as Elvish is a complex and nuanced language, but I am determined to see it through to completion."
+    "text": "news\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nMay 24, 2024\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nMay 21, 2024\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "projects/index.html#the-history-of-the-war-of-the-ring",
-    "href": "projects/index.html#the-history-of-the-war-of-the-ring",
-    "title": "Projects",
-    "section": "The History of the War of the Ring",
-    "text": "The History of the War of the Ring\n\narXiv Preprint | Code\nI am creating a comprehensive and detailed history of the conflict that goes beyond the surface-level events. By gathering information from a variety of sources, including my own memories, written accounts, and oral histories, I hope to shed new light on this important period in Middle-earth’s history and provide valuable insights into the motivations and actions of the various players involved.\n\nView the tutorial for this template (+ download link)"
+    "objectID": "projects/posts/post-with-code/index.html",
+    "href": "projects/posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "projects/posts/welcome/index.html",
+    "href": "projects/posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "Since this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
   }
 ]

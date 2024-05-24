@@ -5,36 +5,34 @@ website:
   title: "RC42"                                # Your name
   description: "Julio is a renowned wizard and scholar of Middle-earth"   # A brief slogan (optional)
   image: img/my_image.jpg
-  
   favicon: img/favicon.png
-  
   # start of the navigation bar at the top of the website
   navbar:
     pinned: true
-    logo: /img/logo.png
+    logo: /img/logo2.png
     background: "#A14593"
     
     # your sub-pages
     left:
       - text: "About"
-        href: cv/index.qmd
+        href: about/index.qmd
       - text: "Board"
-        href: photography/index.qmd
+        href: board/index.qmd
       - text: "Research"
         href: projects/index.qmd        
       - text: "News"
-        href: photography/index.qmd
+        href: news/index.qmd
       - text: "Links"
-        href: cv/index.qmd
+        href: links/index.qmd
     
     # your social media handles
     right:
-      - icon: folder-symlink
-        href: https://www.marvinschmitt.com/blog/website-tutorial-quarto/
-      - icon: twitter
-        href: https://twitter.com/MarvinSchmittML
-      - icon: linkedin
-        href: https://www.linkedin.com/in/marvin-schmitt-a85b321a2/
+      # - icon: folder-symlink
+      #   href: https://www.marvinschmitt.com/blog/website-tutorial-quarto/
+      # - icon: twitter
+      #   href: https://twitter.com/MarvinSchmittML
+      # - icon: linkedin
+      #   href: https://www.linkedin.com/in/marvin-schmitt-a85b321a2/
       - icon: envelope
         aria-label: email
         href: "mailto:mail.marvinschmitt@gmail.com"  
@@ -48,8 +46,8 @@ website:
   page-footer: 
     left: |
       <span class="faux-block">&#169; 2024 Julio Iturra-Sanhueza CC BY-SA 4.0</span>
-    center: |
-      <span class="faux-block"><a href="https://www.marvinschmitt.com/blog/website-tutorial-quarto/">View the tutorial for this template!</a></span>
+#    center: |
+#      <span class="faux-block"><a href="https://www.marvinschmitt.com/blog/website-tutorial-quarto/">View the tutorial for this template!</a></span>
     right: |
       <span class="faux-block"><a href="https://github.com/jciturras/isa-rc42">View source on GitHub</a></span>
 
