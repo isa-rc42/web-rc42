@@ -4,7 +4,14 @@
     "href": "about/index.html",
     "title": "RC42 Social Psychology",
     "section": "",
-    "text": "Objectives\nThe aim of RC42 is to contribute to the development of theory and research in social psychology on an international level, uniting professional and scientific interests of its members to work together on a local, regional, and international level."
+    "text": "Established in 1988\n\nObjectives\nThe aim of RC42 is to contribute to the development of theory and research in social psychology on an international level, uniting professional and scientific interests of its members to work together on a local, regional, and international level."
+  },
+  {
+    "objectID": "board/index.html",
+    "href": "board/index.html",
+    "title": "Board Members",
+    "section": "",
+    "text": "Max Weber\n      \n      \n      \n   \n\n\n\n\n   \n   \n     \n   \n      \n         Mariane Weber"
   },
   {
     "objectID": "board/member1.html",
@@ -21,13 +28,6 @@
     "text": "Marianne Weber (1870–1954) was a prominent German sociologist, women’s rights activist, and writer, known for her contributions to feminist theory and her role in advancing women’s rights in Germany. Born Marianne Schnitger in Oerlinghausen, she married Max Weber in 1893 and became an integral part of his intellectual and personal life.\nMarianne Weber was a formidable scholar in her own right. She studied law and sociology, and her academic pursuits were heavily influenced by the intellectual milieu she shared with her husband and other scholars of the time. Her work often intersected with issues of gender, law, and sociology.\nOne of her most significant contributions was her book “Wife and Mother in the Development of Law” (1907), where she examined the legal and social status of women through history. She argued for the recognition of women’s work within the family and their rights as individuals, advocating for legal reforms to ensure gender equality.\nIn addition to her academic work, Marianne Weber was actively involved in the women’s movement in Germany. She was a member of the Federation of German Women’s Associations (BDF) and served as its chairwoman from 1919 to 1923. During her tenure, she worked tirelessly to advance women’s educational opportunities, legal rights, and social positions.\nAfter Max Weber’s death in 1920, Marianne Weber dedicated herself to preserving and promoting his intellectual legacy. She edited and published his unfinished works, ensuring that his contributions to sociology and social theory would be recognized and studied by future generations.\nMarianne Weber’s life and work were characterized by her commitment to social justice, gender equality, and intellectual rigor. Her contributions have left a lasting impact on feminist theory and the sociology of gender, cementing her place as a significant figure in the history of sociology. She passed away in Heidelberg in 1954."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome to the website of the ISA RC42",
-    "section": "",
-    "text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
-  },
-  {
     "objectID": "links/index.html",
     "href": "links/index.html",
     "title": "Links",
@@ -39,27 +39,27 @@
     "href": "news/index.html",
     "title": "News",
     "section": "",
-    "text": "Tweets by isa_sociology"
+    "text": "ISA on X\nTweets by isa_sociology"
   },
   {
     "objectID": "projects/index.html",
     "href": "projects/index.html",
     "title": "Projects",
     "section": "",
-    "text": "news\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nMay 24, 2024\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nMay 21, 2024\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+    "text": "Post With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nMay 24, 2024\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nMay 21, 2024\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "projects/posts/post-with-code/index.html",
     "href": "projects/posts/post-with-code/index.html",
     "title": "Post With Code",
     "section": "",
-    "text": "1 + 1\n\n[1] 2"
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
   },
   {
     "objectID": "projects/posts/welcome/index.html",
     "href": "projects/posts/welcome/index.html",
     "title": "Welcome To My Blog",
     "section": "",
-    "text": "Since this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
   }
 ]

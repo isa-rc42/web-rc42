@@ -2,38 +2,31 @@
 
 # website settings
 website:
-  title: "RC42"                                # Your name
+  title: ""                                # Your name
   description: "Julio is a renowned wizard and scholar of Middle-earth"   # A brief slogan (optional)
   image: img/my_image.jpg
   favicon: img/favicon.png
   # start of the navigation bar at the top of the website
   navbar:
-    pinned: true
+    pinned: false
     logo: /img/logo2.png
     background: "#A14593"
-    
     # your sub-pages
     left:
       - text: "About"
         href: about/index.qmd
       - text: "Board"
         href: board/index.qmd
-      - text: "Research"
-        # href: projects/index.qmd
-        menu: 
-          - text: Projects
-            href: projects/index.qmd
-          - text: Publication
-            href: projects/papers.qmd                  
-      - text: "News"
-        # href: news/index.qmd
-        menu:
-          - text: Activities
-            href:  news/index.qmd
-          - text: Publications
-            href:  https://code.com            
-          - text: Newsletter
-            href:  https://bugs.com    
+      - text: Projects
+        href: projects/index.qmd
+      - text: Publication
+        href: projects/papers.qmd                  
+      - text: Activities
+        href:  news/index.qmd
+      - text: Publications
+        href:  https://code.com            
+      - text: Newsletter
+        href:  https://bugs.com    
       - text: "Links"
         href: links/index.qmd
     
@@ -78,13 +71,17 @@ execute:
 
 format:
   html:
-    fontsize: 1.1em
+    highlight-style: github-dark #change text from code chunks to white. 
+    smooth-scroll: true
+    include-in-header: meta.html
     theme: 
-      - pulse
-      - html/styles.scss
-    toc: false
+          light: pulse
+          dark: cyborg
+          
+    css: styles.css
+    toc: true
     code-link: true
-    anchor-sections: true
-    fig-cap-location: margin
-    reference-location: margin
+    link-external-newwindow: true 
+    citations-hover: true
     footnotes-hover: true
+editor: visual
