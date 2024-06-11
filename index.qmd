@@ -59,7 +59,6 @@ include-in-header: meta.html
 comments: false
 ---
 
-
 ```{=HTML}
 
 
@@ -290,10 +289,6 @@ comments: false
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Roboto:wght@100&family=Urbanist:wght@100;900&display=swap');
 </style>
 ```
-
-
-
-
 ```{=HTML}
 
 <div class="layout_grid_cards">
@@ -327,31 +322,21 @@ comments: false
       </div>
     </a>
 </div>
-
 ```
-
-<div style="font-size: 15px;
+::: {style="font-size: 15px;
 margin-top:20px;
-color: grey">*All the images were generated with Dall-e. </div> 
+color: grey"}
+\*All the images were generated with Dall-e.
+:::
 
-<div class="section_white" style="display: flex;
+::: {.section_white style="display: flex;
         align-items: center;
-        justify-content: center;">
-<h1>Coding is
-  <span
-     class="txt-rotate"
-     data-period="2000"
-     data-rotate='[ "teamwork and growth.", "potential unlocked.", "empowering.", "enjoyable and engaging.", "for everyone." ]'></span>
-</h1>
+        justify-content: center;"}
+<h1>Coding is </h1>
+:::
 
-</div> 
-
-
-<div class="layout_grid_learnr">
-
-<div class="social-media">
-
-
+::: layout_grid_learnr
+::: social-media
 ```{=HTML}
 
 <h1 style="font-size: 40px;
@@ -375,16 +360,13 @@ font-weight: 700;
 
 </h1>
 ```
-
 ::: {#Resources}
 :::
 
 </hr>
+:::
 
-</div> 
-
-  <div>
-
+<div>
 
 ```{=HTML}
 
@@ -409,36 +391,22 @@ font-weight: 700;
 
 </h1>
 ```
- 
 ::: {#learn}
 :::
 
-
-
-
-
-<div class="image-grid">
-
+::: image-grid
 ::: {#learn}
 :::
+:::
 
-
-</div> 
-
-</div> 
-</div> 
-
-
+</div>
+:::
 
 <hr class="sep-2" />
 
-
-
 </div>
 
-<div class="layout_grid_learnr2">
-
-
+::: layout_grid_learnr2
 <div>
 
 ```{=HTML}
@@ -464,8 +432,6 @@ font-weight: 700;
 
 </h1>
 ```
-
-
 ::: {#books}
 :::
 
@@ -476,7 +442,7 @@ font-weight: 700;
 </div>
 
 <div>
-  
+
 </br>
 
 ```{=HTML}
@@ -502,26 +468,19 @@ font-weight: 700;
 
 </h1>
 ```
-
-
 ::: {#Events}
 :::
 
 <a href="../events/index.html"> <button type="button" class="btn btn-primary float-end btn-sm">See all our events</button></a>
 
 </div>
-
-
-</div>
+:::
 
 </br>
 
-</div> 
+</div>
 
-
-<div class="layout_table">
-
-
+::: layout_table
 ```{=HTML}
 
 <h1 style="font-size: 40px;
@@ -545,26 +504,21 @@ font-weight: 700;
 
 </h1>
 ```
-
-
 ::: {#material}
 :::
 
 <a href="../material/index.html"> <button type="button" class="btn btn-primary float-end btn-sm">See all our material</button></a>
-
-
-</div>
+:::
 
 </br>
 
-
-<div class="container-footer2">
-
-</div>
+::: container-footer2
+:::
 
 <div class="container-footer">
-<div class="layout_hertie">
 
+::: layout_hertie
+```{=html}
 <h1 style="font-size: 5vw;
 display: flex;
 align-items: center;
@@ -573,22 +527,16 @@ font-weight: 900;
 background-image: conic-gradient(#bc0525, white, white, #bc0525, #bc0525);
 color: transparent;
 background-clip: text;
--webkit-background-clip: text;"
-class="scroll-text"> Want to know more about us and what we do?  </h1>
-</div>
+-webkit-background-clip: text;" class="scroll-text">
+```
+Want to know more about us and what we do?
 
-<div class="layout" style = "font-size: 5px">
+</h1>
+:::
 
-<article>
-  <img class="lukas" src="images/DSL.jpg" data-url="https://www.hertie-school.org/en/datasciencelab" >
-  <img class="lukas" src="images/MDS.jpg" data-url="https://www.hertie-school.org/en/mds" >
-  <img class="lukas" src="images/hertie.jpg" data-url="https://www.hertie-school.org/en/" >
-</article>
-
-
-</div> 
-
-
+::: {.layout style="font-size: 5px"}
+<article><img src="images/DSL.jpg" class="lukas" data-url="https://www.hertie-school.org/en/datasciencelab"/> <img src="images/MDS.jpg" class="lukas" data-url="https://www.hertie-school.org/en/mds"/> <img src="images/hertie.jpg" class="lukas" data-url="https://www.hertie-school.org/en/"/></article>
+:::
 
 ```{=html}
 
@@ -613,66 +561,44 @@ document.addEventListener('DOMContentLoaded', function () {
 });
 
 </script>
-
 ```
-
-
-
 <hr class="sep-2-f" style="margin-top: 50px;"/>
 
-<div style="margin-top: 50px;"/>
-
-
-
-::: {.grid}
-::: {.g-col-3}
-
+::: {style="margin-top: 50px;"}
+::: grid
+::: g-col-3
 ![](_site/images/hertie/DSL.png){width="150" fig-align="center"}
-
 :::
-::: {.g-col-6}
 
+::: g-col-6
 ![](_site/images/hcc_final.png){width="150" fig-align="center"}
-
-:::
-::: {.g-col-3}
-
-![](_site/images/hertie/hertie.png){width="150"  fig-align="center"}
-
-:::
 :::
 
-</div>
+::: g-col-3
+![](_site/images/hertie/hertie.png){width="150" fig-align="center"}
+:::
+:::
+:::
 
-<div class="container-footer3">
+::: container-footer3
+::: layout_footer
+<a href="https://www.hertiecodingclub.com/about_us/privacy" target="_blank" style="font-size: 13px;"> <i class="fas fa-shield-alt"></i> Privacy Policy </a> \| <a href="https://www.hertiecodingclub.com/about_us/impressum" target="_blank" style="font-size: 13px;"> <i class="fas fa-file-alt"></i> Impressum </a> \| This website, the content and everything related to it is licensed under <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank"> Creative Commons Attribution-NonCommercial 4.0 International License.</a>
 
-
-<div class="layout_footer">
-
-
-
-   <a href="https://www.hertiecodingclub.com/about_us/privacy" target="_blank" style="font-size: 13px;"> <i class="fas fa-shield-alt"></i> Privacy Policy </a> | <a href="https://www.hertiecodingclub.com/about_us/impressum" target="_blank" style="font-size: 13px;"> <i class="fas fa-file-alt"></i> Impressum </a> | This website, the content and everything related to it is licensed under <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank"> Creative Commons Attribution-NonCommercial 4.0 International License.</a>
-  
-  <div class="cc-icons-row">
-  <img src="_site/images/cc/cc.svg" alt="CC" class="cc-icon">
-  <img src="_site/images/cc/by.svg" alt="BY" class="cc-icon">
-  <img src="_site/images/cc/nc.svg" alt="NC" class="cc-icon">
-  <img src="_site/images/cc/nd.svg" alt="ND" class="cc-icon">
-  
-
- </div> 
-</div>
-</div>
-
-
-
+::: cc-icons-row
+<img src="_site/images/cc/cc.svg" alt="CC" class="cc-icon"/> <img src="_site/images/cc/by.svg" alt="BY" class="cc-icon"/> <img src="_site/images/cc/nc.svg" alt="NC" class="cc-icon"/> <img src="_site/images/cc/nd.svg" alt="ND" class="cc-icon"/>
+:::
+:::
+:::
 
 <!-- Important: apply it to html index.html  -->
+
 <!-- <li class='page-item'><button class='page page-link' type='button'></button></li> -->
 
+```{=html}
 <!--     const options = {
       valueNames: ['listing-image','listing-date','listing-title',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       page: 1,
     pagination: { item: "<li class='page-item'><a class='page page-link' href='#'></a></li>" },
       searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
     }; -->
+```
