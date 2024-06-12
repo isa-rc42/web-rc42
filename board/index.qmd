@@ -2,8 +2,7 @@
 title: "Board Members"
 ---
 
-:::{layout-ncol=2}
-
+::: {layout-ncol="2"}
 ```{=html}
 <div class="quarto-about-jolla">
    <a href="member1.html">
@@ -19,7 +18,6 @@ title: "Board Members"
    </header>
 </div>
 ```
-
 ```{=html}
 <div class="quarto-about-jolla">
    <a href="member2.html">
@@ -35,6 +33,4 @@ title: "Board Members"
    </header>
 </div>
 ```
-
 :::
-

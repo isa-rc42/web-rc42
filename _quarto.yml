@@ -2,46 +2,30 @@
 
 # website settings
 website:
-  title: ""                                # Your name
-  description: "Julio is a renowned wizard and scholar of Middle-earth"   # A brief slogan (optional)
+  title: "RC42"                                # Your name
   image: img/my_image.jpg
   favicon: img/favicon.png
   # start of the navigation bar at the top of the website
   navbar:
     pinned: false
-    logo: /img/logo2.png
+    logo: /img/logo3.png  
     background: "#A14593"
     # your sub-pages
     left:
-      - text: "About"
-        href: about/index.qmd
-      - text: "Board"
-        href: board/index.qmd
-      - text: "Projects"
-        href: projects/index.qmd
+      # - text: "Board"
+      #   href: board/index.qmd
       - text: "Publications"
         href: projects/papers.qmd                  
-      - text: "Activities"
-        href: news/index.qmd
-      - text: "Newsletter"
-        href: https://google.com    
+      - text: "News"
+        href: projects/index.qmd
       - text: "Links"
         href: links/index.qmd
-    
     # your social media handles
     right:
-      # - icon: folder-symlink
-      #   href: https://www.marvinschmitt.com/blog/website-tutorial-quarto/
-      # - icon: twitter
-      #   href: https://twitter.com/MarvinSchmittML
-      # - icon: linkedin
-      #   href: https://www.linkedin.com/in/marvin-schmitt-a85b321a2/
       - icon: envelope
         aria-label: email
-        href: "mailto:mail.marvinschmitt@gmail.com"  
+        href: "mailto:julioiturrasanhueza@gmail.com"  
   
-  
-
 # Don't touch unless you know what you are doing :) ------------
   search: 
     location: navbar
@@ -71,15 +55,12 @@ format:
   html:
     highlight-style: github-dark #change text from code chunks to white. 
     smooth-scroll: true
-    include-in-header: meta.html
-    theme: 
-          light: pulse
-          dark: cyborg
-          
+    theme:
+      light: flatly
+      dark: darkly
     css: styles.css
     toc: true
     code-link: true
     link-external-newwindow: true 
     citations-hover: true
     footnotes-hover: true
-editor: visual

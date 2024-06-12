@@ -1,7 +1,7 @@
 ---
 title: "Publications"
+title-block-banner: true
 ---
-
 
 ```{=html}
 <iframe src="https://bibbase.org/show?bib=https%3A%2F%2Fapi.zotero.org%2Fusers%2F5414506%2Fcollections%2F3TR69TQ5%2Fitems%3Fkey%3DvCfcFw8Ah17TyMYXbAFUABTi%26format%3Dbibtex%26limit%3D100" style="
@@ -9,4 +9,3 @@ title: "Publications"
     width: 1000px;
 "></iframe>
 ```
-

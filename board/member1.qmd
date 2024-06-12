@@ -20,8 +20,7 @@ about:
 ---
 
 ::: {#maxweber-block}
-
-Max Weber (1864–1920) was a pioneering German sociologist, philosopher, and political economist, best known for his profound impact on the study of sociology and his theories on capitalism, bureaucracy, and religion. Born in Erfurt, Prussia, Weber grew up in an intellectually vibrant environment, which significantly influenced his scholarly pursuits.
+Max Weber (1864--1920) was a pioneering German sociologist, philosopher, and political economist, best known for his profound impact on the study of sociology and his theories on capitalism, bureaucracy, and religion. Born in Erfurt, Prussia, Weber grew up in an intellectually vibrant environment, which significantly influenced his scholarly pursuits.
 
 Weber studied law, history, economics, and philosophy at several universities, including Heidelberg and Berlin. His early academic career focused on law and economics, but he soon shifted to broader social sciences. He became a professor at the University of Freiburg and later at the University of Heidelberg.
 
@@ -31,4 +30,3 @@ Beyond his academic contributions, Weber was actively involved in politics and p
 
 Weber's comprehensive approach to sociology, which integrated economic, political, and cultural dimensions, has left a lasting legacy, making him a foundational figure in the field. He passed away in Munich in 1920, but his ideas continue to influence sociological thought and research.
 :::
-
